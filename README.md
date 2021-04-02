@@ -9,3 +9,6 @@ quantizeImage: decrece the number of colors in the image
 the 'gamma.py' file define one function- gammaDisplay, that gives a slidebar to choose gamma for gamma currection (and dispaly the image after currection)
 the 'ex1_main.py' file is a main program that demonstrate the use of the differate functions. the file was given and not implemeted by me.
 the task has provided some images for testing - 'bac_con.pnj', 'beach.png', 'dark.jpg', 'water_bear.png'. I added two images - 'testImg1.jpg' and 'testImg2.jpg'.
+*note*: all functions that get an image (not image path) as an argument, assume range [0,1].
+
+the progam was tested on PyCharm IDE with python 3.9
